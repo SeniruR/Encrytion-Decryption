@@ -1,0 +1,1 @@
+Ask for the public keys txt file from other communicators, rename it with there name and save it here.

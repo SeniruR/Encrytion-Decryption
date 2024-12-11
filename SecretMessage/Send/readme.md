@@ -1,0 +1,1 @@
+Encrypted messages are stored here. Send them to the receiver.
